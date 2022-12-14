@@ -6,8 +6,8 @@ title: Hardik Sharma's Resume
 Senior at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="sharmahardik8020@gmail.com">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="sharmahardik8020@gmail.com">sharmahardik8020@gmail.com</a>
+| <a href="https://www.linkedin.com/in/-hardiksharma">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
