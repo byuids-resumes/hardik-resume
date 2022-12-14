@@ -20,13 +20,14 @@ __Brigham Young University – Idaho__, Rexburg, ID
 Bachelor of Science in Business Analytics with a minor in Finance	
 
 
-Certificate for Data Science (C124) and Certificate for Business Fundamentals (C105)
-Intern’s Data School graduate at Goldman Sachs
-Alteryx Designer Core Certification issued by Alteryx
+- Certificate for Data Science (C124) and Certificate for Business Fundamentals (C105)
+- Intern’s Data School graduate at Goldman Sachs
+- Alteryx Designer Core Certification issued by Alteryx
 
 GPA: 3.94/4.0
-Honors: BYU-Idaho Thomas E. Ricks Grant (Full ride scholarship for excellent GPA)
-Technical Skills: MySQL, R, Python (NumPy, Pandas, Altair, Scikit-learn), Alteryx, Power BI, Tableau, Mathematica, Microsoft Office Suite, Bloomberg terminal     
+
+- Honors: BYU-Idaho Thomas E. Ricks Grant (Full ride scholarship for excellent GPA)
+- Technical Skills: MySQL, R, Python (NumPy, Pandas, Altair, Scikit-learn), Alteryx, Power BI, Tableau, Mathematica, Microsoft Office Suite, Bloomberg terminal     
   
 ![image](https://user-images.githubusercontent.com/97266144/207678021-76e79166-42eb-4ccd-9b81-eef4cdf55020.png)
 
